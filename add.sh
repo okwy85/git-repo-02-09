@@ -1,5 +1,5 @@
 #!/bin/bash
-a=$1
+a=40
 b=$2
 ((sum=a+b))
 echo "the sum is "$sum
